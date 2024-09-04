@@ -5,14 +5,6 @@
 [![MBBANK](https://raw.githubusercontent.com/VTT7613VN/VTT7613VN/H%C3%ACnh-%E1%BA%A3nh/1D003446-50D8-426A-A8C0-83F158AD139E.jpeg)](https://t.me/@TRUONG7613)
 
 
-
-
-
-
-
-
-
-![](https://raw.githubusercontent.com/VTT7613VN/VTT7613VN/H%C3%ACnh-%E1%BA%A3nh/1D003446-50D8-426A-A8C0-83F158AD139E.jpeg)
 # 💻Tech Stack
 ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=plastic&logo=elm&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=plastic&logo=elixir&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=plastic&logo=fastify&logoColor=white)
 # 📊GitHub Stats :
