@@ -5,11 +5,10 @@
 
 
 
-[![QRCODE_MBBANK](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
 
 
 
-![](https://raw.githubusercontent.com/VTT7613VN/VTT7613VN/H%C3%ACnh-%E1%BA%A3nh/F07F5C44-EC99-41F1-99D7-9320752157F8.jpeg)
+![QR CODE MBBANK](https://raw.githubusercontent.com/VTT7613VN/VTT7613VN/H%C3%ACnh-%E1%BA%A3nh/F07F5C44-EC99-41F1-99D7-9320752157F8.jpeg)
 
 
 
