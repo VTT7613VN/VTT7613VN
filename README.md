@@ -2,6 +2,7 @@
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/@TRUONG7613) [![!TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@𝓣𝓡𝓤̛𝓞̛̀𝓝𝓖⁷⁶¹³) [!Telegram](https://img.shields.io/badge/telegram-%23000000.svg?logo=telegram&logoColor=blue)](http://t.me/VTT7613VN) 
+[![Facebook](https://img.shields.io/badge/Telegram-%231877F2.svg?logo=telegram&logoColor=white)](https://t.me/@TRUONG7613)
 
 
 
