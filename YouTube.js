@@ -1,7 +1,7 @@
 // https://github.com/Maasea/sgmodule/blob/90e5d83a005fdcf899b73f6004f1506e76e42920/Script/Youtube/youtube.src.js
 // Build: 2023/3/3 12:14:26
 (() => {
-  // lib/text-polyfill.mjs
+  
   function text(r) {
     "use strict";
     function x() {}
