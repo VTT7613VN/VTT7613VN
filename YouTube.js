@@ -1,5 +1,20 @@
 // https://github.com/Maasea/sgmodule/blob/90e5d83a005fdcf899b73f6004f1506e76e42920/Script/Youtube/youtube.src.js
 // Build: 2023/3/3 12:14:26
+
+
+
+[URL Rewrite]
+https?:\/\/.+\.googlevideo\.com\/.+&oad reject 302
+^https?://(www.)?g.cn https://www.google.com 302
+^https?://(www.)?google.cn https://www.google.com 302
+
+[Script]
+youtube = type=http-response,script-path=https://raw.githubusercontent.com/VTT7613VN/VTT7613VN/refs/heads/YOUTUBEJS/YouTube.js,pattern=^https:\/\/youtubei\.googleapis\.com\/youtubei\/v1\/(browse|next|player|search|reel\/reel_watch_sequence|guide|account\/get_setting),max-size=3145728,requires-body=true,binary-mode=true,timeout=10,script-update-interval=0,debug=true,enable=true
+
+
+
+
+
 (() => {
   
   function text(r) {
