@@ -22,7 +22,7 @@
 127.0.0.1  localhost
 ::1  localhost
 
-# [choitip88.me]
+# [lienminhlega.com]
 127.0.0.1 choitip88.me
 127.0.0.1 widgets.adskeeper.com
-127.0.0.1 iad.g.163.com
+127.0.0.1 lienminhlega.com
