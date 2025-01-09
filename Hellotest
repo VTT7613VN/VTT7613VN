@@ -1,28 +1,15 @@
-# AdAway default blocklist
-# Blocking mobile ad providers and some analytics providers
+# Title: hostsVN
+# Last modified: 06 Jan 2025 22:58 UTC+7
+# Version: 2501062258
+# Blocked: 21.094 domains
+# Please report any ads or problems on GitHub
+# Homepage: https://bigdargon.github.io/hostsVN/
+# GitHub: https://github.com/bigdargon/hostsVN
+# Report issues: https://github.com/bigdargon/hostsVN/issues
+# Download: https://github.com/bigdargon/hostsVN/raw/master/hosts
 #
-# Project home page:
-# https://github.com/AdAway/adaway.github.io/
+# =====================================================
 #
-# Fetch the latest version of this file:
-# https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt
-#
-# License:
-# CC Attribution 3.0 (http://creativecommons.org/licenses/by/3.0/)
-#
-# Contributions by:
-# Kicelo, Dominik Schuermann.
-# Further changes and contributors maintained in the commit history at
-# https://github.com/AdAway/adaway.github.io/commits/master
-#
-# Contribute:
-# Create an issue at https://github.com/AdAway/adaway.github.io/issues
-#
-
-127.0.0.1  localhost
-::1  localhost
-
-# [lienminhlega.com]
-127.0.0.1 choitip88.me
-127.0.0.1 widgets.adskeeper.com
-127.0.0.1 lienminhlega.com
+# --- Group block ---
+#[apple]
+0.0.0.0 tvday.me
